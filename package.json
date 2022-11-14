@@ -1,0 +1,23 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "Repo for registration using a form",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahadev18/SahadevRepo.git"
+  },
+  "author": "Sahadev Bhaganagare <sahadevbh8@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahadev18/SahadevRepo/issues"
+  },
+  "homepage": "https://github.com/Sahadev18/SahadevRepo#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "minimist": "^1.2.7"
+  }
+}
